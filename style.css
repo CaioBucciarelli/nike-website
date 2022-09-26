@@ -16,6 +16,10 @@ body {
 }
 */
 
+body {
+  margin: 0;
+}
+
 /* Rodapé */
 footer {
   background-color: #343538;
