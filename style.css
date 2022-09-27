@@ -28,6 +28,19 @@ main {
   background-position: center;
 }
 
+/* Conteúdo */
+.conteudo {
+  background: url(img/bgNike.png);
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.destaque {
+  height: 50vh;
+}
+
 /* Rodapé */
 footer {
   background-color: #343538;
